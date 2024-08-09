@@ -1,4 +1,4 @@
- #Spaceship Interface
+ # Spaceship Interface
 
  The system is supposed to work with Arduino Uno
  It starts with the green light on.
